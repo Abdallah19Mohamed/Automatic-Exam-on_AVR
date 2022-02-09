@@ -2,7 +2,7 @@
  * KEY_PAD.c
  *
  * Created: 09/01/2022 11:45:55 ص
- *  Author: dell
+ *  Author: ABDALLAH
  */ 
 #include "KEY_PAD_CFG.h"
 #include "DIO.h"
